@@ -14,7 +14,7 @@ import ContactForm from '../components/contactForm'
 import Testimonies from '../components/testimonies'
 
 
-export default function Home() {
+export default function Buy() {
   return (
     <div >
       <Head>
@@ -27,10 +27,9 @@ export default function Home() {
 <Nav/>
 <Intro/>
    <PrimaryFunction/>
-      <Vision/>
-      <Mission/>
+      
       <PriceTable/> 
-      <Testimonies/>
+      
       <ContactForm/>
       <Footer/>
 
